@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 # Curriculum Vitae
 
 ## 1. Personal Details
@@ -119,8 +121,6 @@ redirect_from:
 ---
 
 ### 📌 **Last Updated:** 30.01.2025
-
-{% include base_path %}
 
 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 ------
