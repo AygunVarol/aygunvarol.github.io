@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Curriculum Vitae
 
 ## 1. Personal Details
