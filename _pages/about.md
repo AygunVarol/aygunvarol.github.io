@@ -26,6 +26,6 @@ Prior to my position at Tampere University, I was research assistant at Isparta 
 
 My [CV](https://github.com/user-attachments/files/18643241/Aygun_CV_TENK.pdf)
 ------
-
+Local [My CV](files/Aygun_CV.pdf)
 
 
