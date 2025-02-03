@@ -9,7 +9,7 @@ redirect_from:
 
 Doctoral Researcher, Department of Computing Sciences, Tampere University, Finland
 
-E-mail:aygun.varol@tuni.fi
+E-mail: aygun.varol@tuni.fi
 
 Research interests
 ======
@@ -21,8 +21,8 @@ I am in my second year in my D.Sc. at Tampere University. I have three superviso
 
 Prior to my position at Tampere University, I was research assistant at Isparta University of Applied Sciences where I earned my M.Sc. in Electrical and Electronics Engineering. My research was analog circuit design and my supervisors were Prof. Abdülkadir Çakır as main supervisor, and Assoc. Prof. Fırat Yücel as co-supervisor at Akdeniz University. I earned my B.Sc. in Electrical and Electronics Engineering from Manisa Celal Bayar University. My research was on industrial automation and my supervisor was Prof. Sezai Taşkın.
 
-My CV
+My [CV](https://github.com/user-attachments/files/18643241/Aygun_CV_TENK.pdf)
 ------
-[Aygun_CV_TENK.pdf](https://github.com/user-attachments/files/18643241/Aygun_CV_TENK.pdf)
+
 
 
