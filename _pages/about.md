@@ -20,7 +20,7 @@ In my research, I aim to find an optimal integration of Internet of Things (IoT)
 Bio
 ======
 <div align="justify">
-I am in my second year in my D.Sc. at Tampere University. I have three supervisors for my doctoral research: Associate Professor Johanna Virkki, my main supervisor at Tampere University; Dr. Naser Hossein Motlagh, a co-supervisor at the University of Helsinki; and Dr. Mirka Leino, a co-supervisor at Satakunta University of Applied Sciences. I am affiliated with the Augmentative Technology Group and take part as a researcher in the EVIL-AI project, which investigates the negative effects of AI and explores strategies for mitigation.<br>
+I am in my second year in my D.Sc. at Tampere University. I have three supervisors for my doctoral research: Associate Professor Johanna Virkki, my main supervisor at Tampere University; Dr. Naser Hossein Motlagh, a co-supervisor at the University of Helsinki; and Dr. Mirka Leino, a co-supervisor at Satakunta University of Applied Sciences. I am affiliated with the Augmentative Technology Group and take part as a researcher in the EVIL-AI project, which investigates the negative effects of AI and explores strategies for mitigation. <br> <br>
   
 Prior to my position at Tampere University, I was research assistant at Isparta University of Applied Sciences where I earned my M.Sc. in Electrical and Electronics Engineering. My research was analog circuit design and my supervisors were Prof. Abdülkadir Çakır as main supervisor, and Assoc. Prof. Fırat Yücel as co-supervisor at Akdeniz University. I earned my B.Sc. in Electrical and Electronics Engineering from Manisa Celal Bayar University. My research was on industrial automation and my supervisor was Prof. Sezai Taşkın.
 </div>
