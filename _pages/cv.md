@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
+------
+Version January 2025
+
 <!-- 
 Education
 ======
