@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Aygun_CV_TENK.pdf](https://github.com/user-attachments/files/18642953/Aygun_CV_TENK.pdf)
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
