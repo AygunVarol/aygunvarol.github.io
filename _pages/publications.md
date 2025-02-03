@@ -9,9 +9,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+
+
+<!--
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+ New style rendering if publication categories are defined 
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -31,6 +35,6 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
+-->
 
 
