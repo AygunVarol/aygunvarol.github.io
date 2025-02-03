@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-##AI Agents in Smart Spaces Talk on The 1st Winter School on 3D Digitainability at Tampere University
+#AI Agents in Smart Spaces Talk on The 1st Winter School on 3D Digitainability at Tampere University
 
 [Event](https://www.tuni.fi/en/news/1st-winter-school-3d-digitainability-exploring-combined-effects-digitalization-sustainability)
 
