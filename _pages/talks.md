@@ -9,8 +9,9 @@ AI Agents in Smart Spaces Talk on The 1st Winter School on 3D Digitainability at
 ======
 
 [Event](https://www.tuni.fi/en/news/1st-winter-school-3d-digitainability-exploring-combined-effects-digitalization-sustainability)
-
 [Speakers](https://content-webapi.tuni.fi/proxy/public/2024-11/winter-school-speakers.pdf)
+[Video](https://www.youtube.com/watch?v=BPml49Tvxcw&t=253s)
+[Slides]()
 
 <!--
 {% if site.talkmap_link == true %}
