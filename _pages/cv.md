@@ -12,7 +12,7 @@ redirect_from:
 - **Surname:** Varol  
 - **Name:** Aygün  
 - **ORCID ID:** [0000-0002-4029-7676](https://orcid.org/0000-0002-4029-7676)  
-- **Date of CV:** 30.01.2025  
+- **Date of CV:** 14.02.2025  
 
 ---
 
