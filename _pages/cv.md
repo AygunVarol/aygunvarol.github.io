@@ -74,7 +74,7 @@ redirect_from:
 
 ## 8. Research Output
 
-- **Total Publications:** 5 (**10 citations**)  
+- **Total Publications:** 5 (**11 citations**)  
 - **Selected Publications:**  
   1. **Varol, A., Motlagh, N. H., Leino, M., Tarkoma, S., & Virkki, J. (2024).** "Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey" (*Submitted to ACM Transactions on Sensor Networks*).  
   2. **Varol, A., Yucel, F., Yuce, E., & Cakir, A. (2024).** "A single-IC realizable, electronically tunable, OTA-based full-wave rectifier with simultaneous positive and negative outputs." *AEU-International Journal of Electronics and Communications*, 155374.  
