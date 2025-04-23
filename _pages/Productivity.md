@@ -7,7 +7,7 @@ author_profile: true
 
 Agent to Agent Protocol
 ------
-<iframe width="80%" height="300" scrolling="no" frameborder="no" allow="autoplay"
+<iframe width="60%" height="300" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2082878175&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
 </iframe>
 <div style="font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: sans-serif; font-weight: 100;">
@@ -18,5 +18,5 @@ Agent to Agent Protocol
 
 Building LLM Agents - A Practical Guide
 ------
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2082598065&color=%23517271&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="60%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2082598065&color=%23517271&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aygunvarol" title="Aygün Varol" target="_blank" style="color: #cccccc; text-decoration: none;">Aygün Varol</a> · <a href="https://soundcloud.com/aygunvarol/building-llm-agents-a-practical-guide" title="Building LLM Agents - A Practical Guide" target="_blank" style="color: #cccccc; text-decoration: none;">Building LLM Agents - A Practical Guide</a></div>
