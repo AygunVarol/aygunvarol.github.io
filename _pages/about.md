@@ -26,7 +26,7 @@ Prior to my position at Tampere University, I was research assistant at Isparta 
 
 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 ------
-Version April 2025
+Version May 2025
 
 Here is my latest AI podcast  
 ------  
