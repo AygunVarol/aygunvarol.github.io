@@ -116,11 +116,11 @@ redirect_from:
 
 ---
 
-### 📌 **Last Updated:** 14.04.2025
+### 📌 **Last Updated:** 02.05.2025
 
 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 ------
-Version April 2025
+Version May 2025
 
 <!-- 
 Education
