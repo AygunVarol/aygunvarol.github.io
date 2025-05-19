@@ -12,7 +12,7 @@ redirect_from:
 - **Surname:** Varol  
 - **Name:** Aygün  
 - **ORCID ID:** [0000-0002-4029-7676](https://orcid.org/0000-0002-4029-7676)  
-- **Date of CV:** 02.05.2025  
+- **Date of CV:** 19.05.2025  
 
 ---
 
@@ -74,7 +74,7 @@ redirect_from:
 
 ## 8. Research Output
 
-- **Total Publications:** 5 (**13 citations**)  
+- **Total Publications:** 5 (**14 citations**)  
 - **Selected Publications:**  
   1. **Varol, A., Motlagh, N. H., Leino, M., Tarkoma, S., & Virkki, J. (2024).** "Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey" (*Submitted to ACM Transactions on Sensor Networks*).  
   2. **Varol, A., Yucel, F., Yuce, E., & Cakir, A. (2024).** "A single-IC realizable, electronically tunable, OTA-based full-wave rectifier with simultaneous positive and negative outputs." *AEU-International Journal of Electronics and Communications*, 155374.  
@@ -116,7 +116,7 @@ redirect_from:
 
 ---
 
-### 📌 **Last Updated:** 02.05.2025
+### 📌 **Last Updated:** 19.05.2025
 
 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 ------
