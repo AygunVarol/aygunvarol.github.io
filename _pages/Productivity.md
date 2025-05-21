@@ -7,7 +7,7 @@ author_profile: true
 
 Google I/O Agentic Future
 ------
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7c1bFOPWRXA7w9ohwCGZ3t?utm_source=generator&t=925369" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5iNiriwBv8WnBQPGFh6B9F?utm_source=generator&t=921" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 AI Adoption in Enterprises
 ------
