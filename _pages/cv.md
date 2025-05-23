@@ -76,7 +76,7 @@ redirect_from:
 
 - **Total Publications:** 5 (**14 citations**)  
 - **Selected Publications:**  
-  1. **Varol, A., Motlagh, N. H., Leino, M., Tarkoma, S., & Virkki, J. (2024).** "Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey" (*Submitted to ACM Transactions on Sensor Networks*).  
+  1. **Varol, A., Motlagh, N. H., Leino, M., Tarkoma, S., & Virkki, J. (2024).** "Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey".
   2. **Varol, A., Yucel, F., Yuce, E., & Cakir, A. (2024).** "A single-IC realizable, electronically tunable, OTA-based full-wave rectifier with simultaneous positive and negative outputs." *AEU-International Journal of Electronics and Communications*, 155374.  
   3. **Kayaalp, K., & Varol, A. (2024).** "LeNet ve ResNet Derin Öğrenme Modelleri ile Asma Yapraklarının Sınıflandırması." *Veri Bilimi*, 7(1), 16-25.  
   4. **Varol, A., Yucel, F., & Cakir, A. (2023).** "A new electronically tunable transimpedance-mode OTA-based first-order universal filter and its quadrature oscillator application." *Journal of Circuits, Systems and Computers*, 32(11), 2350184.  
