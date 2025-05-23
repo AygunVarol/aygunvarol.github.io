@@ -5,6 +5,10 @@ permalink: /contents/
 author_profile: true
 ---
 
+Code with Claude
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2PK8qydRcxpQxxJvdFpWhE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Google I/O Agentic Future
 ------
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/5iNiriwBv8WnBQPGFh6B9F?utm_source=generator&t=921" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
