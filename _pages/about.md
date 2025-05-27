@@ -30,4 +30,4 @@ Version May 2025
 
 Here is my latest AI podcast  
 ------ 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/05Tz2zUrYchJoR54is0b9Y?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2XXL8tRRzq8gs1T1X8fdyO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
