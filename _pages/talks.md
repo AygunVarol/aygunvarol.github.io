@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+2025 May - Risks of Employing AI Agents in Smart Environments at Tampere University
+------
+[Slides](https://aygunvarol.github.io/files/Risks_of_Employing_AI_Agents_in_Smart_Environments.pdf)
+
 2024 Dec - AI Agents in Smart Spaces Talk on The 1st Winter School on 3D Digitainability at Tampere University
 ------
 
