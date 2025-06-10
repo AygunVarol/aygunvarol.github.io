@@ -5,6 +5,10 @@ permalink: /contents/
 author_profile: true
 ---
 
+ChatGPT Business
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0wM8YUwqwC8hQVRavzYxB6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 LLM As A Judge
 ------
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0w4xiSb91khEJf6NylwnHr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
