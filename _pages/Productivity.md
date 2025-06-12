@@ -5,6 +5,10 @@ permalink: /contents/
 author_profile: true
 ---
 
+Malicious AI Operations
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2whkjRwXieDligWNZwa44K?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ChatGPT Business
 ------
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0wM8YUwqwC8hQVRavzYxB6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
