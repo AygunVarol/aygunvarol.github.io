@@ -28,6 +28,17 @@ My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 ------
 Version May 2025
 
-Here is my latest AI podcast  
------- 
+Here is my three latest AI podcast
+======
+
+Alien Intelligence
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6sx0FAbTNqe1DzS3N1Q8TD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Humanity Lost Control
+------
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/57PgmCJOh9sDzU9nexoAHP?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+The Future of OpenAI
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1pySgLQVp3VDp24Jq2aNSs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
