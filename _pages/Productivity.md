@@ -5,6 +5,14 @@ permalink: /contents/
 author_profile: true
 ---
 
+Claude for Financial Services
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/69ItQo4zVCK9GtHe5bNsFL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+ChatGPT Agent
+------
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3P8yyASifywWXE0C6eFDeb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Alien Intelligence
 ------
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6sx0FAbTNqe1DzS3N1Q8TD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
