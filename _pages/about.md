@@ -32,14 +32,14 @@ Here is my three latest AI podcast
 ======
 For more please visit the Productivity page.
 
-Claude for Financial Services
+Masterclass in AI Prompting
 ------
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/69ItQo4zVCK9GtHe5bNsFL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5NZeBq6lNK5FN8wNRXQ4rS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-ChatGPT Agent
+AI OS
 ------
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3P8yyASifywWXE0C6eFDeb?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/2TRDzrvF94qzkEGzDbr5eO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Alien Intelligence
+Intent and Alignment
 ------
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6sx0FAbTNqe1DzS3N1Q8TD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7cSMUPzTaktKunuTcrHrlu?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
