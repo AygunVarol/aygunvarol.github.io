@@ -1,13 +1,10 @@
 ---
-
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
-author\_profile: true
-redirect\_from:
-
-* "/resume/"
-
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ## 1. Personal Details
