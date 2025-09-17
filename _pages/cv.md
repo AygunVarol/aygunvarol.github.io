@@ -6,7 +6,7 @@ permalink: /cv/
 author\_profile: true
 redirect\_from:
 
-* /resume
+* "/resume/"
 
 ---
 
