@@ -14,7 +14,7 @@ E-mail: aygun.varol@tuni.fi
 Research interests
 ======
 <div align="justify">
-In my research, I aim to find an optimal integration of Internet of Things (IoT) sensor networks in indoor environments (i.e., living and working spaces) and develop smart systems that efficiently collect and process data in order to create comfortable, healthy, and sustainable living and working spaces. I am also interested in the applications of AI models such as transformer networks and Large Language Models (LLMs) to enhance smart space functionalities. Of course, with utilization of AI, I investigate potential risks of utilizing autonomous AI agents in smart spaces.<br><br>
+In my research, I aim to find an optimal integration of Internet of Things (IoT) sensor networks in indoor environments and develop smart systems that efficiently collect and process data in order to create comfortable, healthy, and sustainable living and working spaces. I am also interested in the applications of AI models such as transformer networks and Large Language Models (LLMs) to enhance smart space functionalities. Of course, with utilization of AI, I investigate potential risks of utilizing autonomous AI agents in smart spaces.<br><br>
 </div>
 
 Bio
@@ -26,7 +26,7 @@ Prior to my position at Tampere University, I was research assistant at Isparta 
 
 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 ------
-Version May 2025
+Version September 2025
 
 Here is my three latest AI podcast
 ======
