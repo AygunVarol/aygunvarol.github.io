@@ -21,7 +21,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Authors:** A. Shaikh, A. Varol, J. Virkki  
 **Journal:** IEEE Access
 **Year:** 2025  
-**Summary:** This paper presents a three-phase testbed and gray-box threat model for man-in-the-middle (MITM) attacks on an LLM-enabled vacuum robot. Presented methodology converts natural-language prompts into motor commands. Study evaluates four attacks—two indirect prompt-injection and two output-manipulation scenarios—across GPT-4, GPT-4o mini, and GPT-3.5 Turbo in simulated, tabletop, and physical trials, showing that a remote adversary who intercepts JSON messages can bypass collision avoidance, override motor control, and deliver deceptive feedback to users.
+**Summary:** This paper presents a three-phase testbed and gray-box threat model for man-in-the-middle (MITM) attacks on an LLM-enabled vacuum robot. Presented methodology converts natural-language prompts into motor commands. Study evaluates four attacks—two indirect prompt-injection and two output-manipulation scenarios—across GPT-4, GPT-4o mini, and GPT-3.5 Turbo in simulated, tabletop, and physical trials, showing that a remote adversary who intercepts JSON messages can bypass collision avoidance, override motor control, and deliver deceptive feedback to users.  
 **Link:** [View Publication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11091771](https://ieeexplore.ieee.org/abstract/document/11108294))
 
 ## 3. Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey
