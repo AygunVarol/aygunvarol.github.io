@@ -13,7 +13,7 @@ redirect_from:
 * **Name:** Aygün
 * **ORCID ID:** [0000-0002-4029-7676](https://orcid.org/0000-0002-4029-7676)
 * **Personal website:** [aygunvarol.github.io](https://aygunvarol.github.io)
-* **Date of CV:** 17.09.2025
+* **Date of CV:** 22.09.2025
 
 ---
 
@@ -79,7 +79,7 @@ redirect_from:
 
 ## 8. Research Output
 
-* **Total publications:** 7 (**19 citations**)
+* **Total publications:** 7 (**20 citations**)
 * **Publications:**
 
   1. **Varol, A., Motlagh, N. H., Leino, M., & Virkki, J. (2025, June).** Performance of Large Language Models Across Edge and Cloud Platforms in Smart Spaces. *In 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)* (pp. 1–6). IEEE.
@@ -126,7 +126,7 @@ redirect_from:
 
 ---
 
-### 📌 **Last Updated:** 17.09.2025
+### 📌 **Last Updated:** 22.09.2025
 
 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
 
