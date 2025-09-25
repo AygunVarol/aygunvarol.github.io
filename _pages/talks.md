@@ -11,6 +11,12 @@ author_profile: true
 
 ------
 
+2025 June - Performance of Large Language Models Across Edge and Cloud Platforms in Smart Spaces at Splitech, Split, Crotia
+------
+[Slides](https://aygunvarol.github.io/files/Split_conference_presentation.pdf)
+
+------
+
 2025 May - Risks of Employing AI Agents in Smart Environments at Tampere University
 ------
 [Slides](https://aygunvarol.github.io/files/Risks_of_Employing_AI_Agents_in_Smart_Environments.pdf)
