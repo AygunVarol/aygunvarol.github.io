@@ -32,6 +32,10 @@ Here is my latest AI podcasts
 ------
 For more please visit the Productivity page.
 
+Responsible and Secure AI Agents
+------
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0kh4oSfBgofrAxNUlQ4qFK?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Managing People and AI
 ------
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6AUUTCtt8rxlCuVORTE0bc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
