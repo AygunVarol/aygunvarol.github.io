@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+2025 September - Generative AI Risks and Where to Find Them at Tampere University
+------
+[Slides](https://aygunvarol.github.io/files/Generative_AI_Risks.pdf)
+
+------
+
 2025 May - Risks of Employing AI Agents in Smart Environments at Tampere University
 ------
 [Slides](https://aygunvarol.github.io/files/Risks_of_Employing_AI_Agents_in_Smart_Environments.pdf)
