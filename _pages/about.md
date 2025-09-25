@@ -28,9 +28,13 @@ My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf), My [DSc Poster](https:
 ------
 Version September 2025
 
-Here is my three latest AI podcast
+Here is my latest AI podcasts
 ------
 For more please visit the Productivity page.
+
+Managing People and AI
+------
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6AUUTCtt8rxlCuVORTE0bc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Nano Banana
 ------
