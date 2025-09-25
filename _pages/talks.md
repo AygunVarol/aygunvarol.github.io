@@ -11,7 +11,7 @@ author_profile: true
 
 ------
 
-2025 June - Performance of Large Language Models Across Edge and Cloud Platforms in Smart Spaces at Splitech, Split, Crotia
+2025 June - Performance of Large Language Models Across Edge and Cloud Platforms in Smart Spaces at Splitech, Split, Croatia
 ------
 [Slides](https://aygunvarol.github.io/files/Split_conference_presentation.pdf)
 
