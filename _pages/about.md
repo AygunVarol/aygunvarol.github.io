@@ -24,12 +24,12 @@ I am in my third year in my D.Sc. at Tampere University. I have three supervisor
   
 Prior to my position at Tampere University, I was research assistant at Isparta University of Applied Sciences where I also earned my M.Sc. in Electrical and Electronics Engineering. During my master’s studies, I focused on analog circuit design under the supervision of Prof. Abdülkadir Çakır (my main supervisor) and Assoc. Prof. Fırat Yücel (my co-supervisor at Akdeniz University). I earned my B.Sc. in Electrical and Electronics Engineering from Manisa Celal Bayar University. My research was on industrial automation under the guidance of Prof. Sezai Taşkın.</div>
 
-My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
+My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf), My [DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf)
 ------
 Version September 2025
 
 Here is my three latest AI podcast
-======
+------
 For more please visit the Productivity page.
 
 Nano Banana
