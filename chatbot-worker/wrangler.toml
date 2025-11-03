@@ -1,0 +1,8 @@
+name = "aygunvarol-chatbot"
+main = "src/index.js"
+compatibility_date = "2024-11-06"
+workers_dev = true
+
+[vars]
+GROQ_MODEL = "llama-3.3-70b-versatile"
+ALLOWED_ORIGINS = "https://aygunvarol.github.io,http://127.0.0.1:4000"
