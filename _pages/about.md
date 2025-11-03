@@ -33,7 +33,11 @@ Version September 2025
 <div id="ai-agent"></div>
 <script>
 (() => {
-  const config = {{ site.chatbot | default: {} | jsonify }};
+{% if site.chatbot %}
+  const config = {{ site.chatbot | jsonify }};
+{% else %}
+  const config = {};
+{% endif %}
   const ENDPOINT = (config.endpoint || "").trim();
   const PLACEHOLDER = config.placeholder || "Ask about my research, IoT sensors, privacy, and AI agents.";
 
