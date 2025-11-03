@@ -33,7 +33,7 @@ Version September 2025
 <div id="ai-agent"></div>
 <script>
 (() => {
-  const ENDPOINT = "https://<your-worker-subdomain>.workers.dev"; // no trailing slash if your worker routes root
+  const ENDPOINT = "assets/js/worker.js"; // no trailing slash if your worker routes root
 
   const html = `
   <style>
