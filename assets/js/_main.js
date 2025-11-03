@@ -72,4 +72,66 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // Theme toggle
+  (function() {
+    var storageKey = "av-theme";
+    var root = document.documentElement;
+    var toggle = document.getElementById("theme-toggle");
+    if (!toggle || !root) return;
+
+    var icon = toggle.querySelector(".theme-toggle__icon");
+    var prefersDark = window.matchMedia
+      ? window.matchMedia("(prefers-color-scheme: dark)")
+      : null;
+
+    function applyTheme(theme) {
+      var next = theme === "dark" ? "dark" : "light";
+      root.setAttribute("data-theme", next);
+      root.classList.remove("theme--light", "theme--dark");
+      root.classList.add(next === "dark" ? "theme--dark" : "theme--light");
+      if (icon) icon.textContent = next === "dark" ? "☀️" : "🌙";
+      var label =
+        next === "dark" ? "Switch to light theme" : "Switch to dark theme";
+      toggle.setAttribute("aria-label", label);
+      toggle.setAttribute("title", label);
+    }
+
+    function storedTheme() {
+      try {
+        return localStorage.getItem(storageKey);
+      } catch (_) {
+        return null;
+      }
+    }
+
+    function saveTheme(theme) {
+      try {
+        localStorage.setItem(storageKey, theme);
+      } catch (_) {
+        // ignore quota / private mode issues
+      }
+    }
+
+    var initial =
+      storedTheme() ||
+      (prefersDark && prefersDark.matches ? "dark" : "light");
+
+    applyTheme(initial);
+
+    toggle.addEventListener("click", function() {
+      var current = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
+      var next = current === "dark" ? "light" : "dark";
+      applyTheme(next);
+      saveTheme(next);
+    });
+
+    if (prefersDark && prefersDark.addEventListener) {
+      prefersDark.addEventListener("change", function(event) {
+        if (!storedTheme()) {
+          applyTheme(event.matches ? "dark" : "light");
+        }
+      });
+    }
+  })();
+
 });
