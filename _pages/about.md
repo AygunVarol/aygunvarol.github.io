@@ -30,6 +30,8 @@ My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf), My [DSc Poster](https:
 ------
 Version September 2025
 
+AI Assistant
+======
 <div id="ai-agent"></div>
 <script>
 (() => {
@@ -152,7 +154,7 @@ Version September 2025
 </script>
 
 Here is my latest AI podcasts
-------
+======
 For more please visit the Productivity page.
 
 DNA of AI
