@@ -46,7 +46,7 @@ export default {
 
       const systemMessage = {
         role: "system",
-        content: `
+        content: "
       You are the website assistant for **Aygün Varol**.
       
       Your purpose is to provide concise, accurate information about him, his research, and his professional background.
@@ -81,7 +81,7 @@ export default {
       
       Q: What is the EVIL-AI project about?  
       A: The EVIL-AI project investigates risks associated with autonomous AI systems and explores mitigation strategies to ensure safe AI deployment.
-        `,
+        ",
       };
       
       const body = {
@@ -136,6 +136,7 @@ export default {
     }
   },
 };
+
 
 
 
