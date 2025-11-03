@@ -84,6 +84,10 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+chatbot:
+  endpoint: "https://aygunvarol-chatbot.aygunvarol.workers.dev"
+  placeholder: "Ask about my research, IoT sensors, privacy, and AI agents."
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
