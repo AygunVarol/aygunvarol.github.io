@@ -33,11 +33,20 @@ Version September 2025
 <div id="ai-agent"></div>
 <script>
 (() => {
-  const ENDPOINT = "assets/js/worker.js"; // no trailing slash if your worker routes root
+{% if site.chatbot %}
+  const config = {{ site.chatbot | jsonify }};
+{% else %}
+  const config = {};
+{% endif %}
+  const ENDPOINT = (config.endpoint || "").trim();
+  const PLACEHOLDER = config.placeholder || "Ask about my research, IoT sensors, privacy, and AI agents.";
+
+  const root = document.getElementById("ai-agent");
+  if (!root) return;
 
   const html = `
   <style>
-    .av-chat{max-width:720px;margin:1rem 0;padding:1rem;border:1px solid #ddd;border-radius:12px;font:16px/1.4 system-ui,-apple-system,Segoe UI,Roboto}
+    .av-chat{max-width:720px;margin:1rem 0;padding:1rem;border:1px solid #ddd;border-radius:12px;font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto}
     .av-msgs{max-height:420px;overflow:auto;padding-bottom:0.5rem}
     .av-row{display:flex;gap:.5rem;margin:.5rem 0}
     .av-row.user{justify-content:flex-end}
@@ -52,56 +61,90 @@ Version September 2025
   <div class="av-chat" role="region" aria-label="AI chat agent">
     <div id="av-msgs" class="av-msgs" aria-live="polite"></div>
     <form id="av-form" class="av-form">
-      <input id="av-input" class="av-input" type="text" placeholder="Ask about my research, sensors, AI agents…" autocomplete="off" />
+      <input id="av-input" class="av-input" type="text" autocomplete="off" />
       <button class="av-btn" type="submit">Ask</button>
     </form>
   </div>`;
 
-  const root = document.getElementById("ai-agent");
   root.innerHTML = html;
 
   const msgsEl = document.getElementById("av-msgs");
   const form = document.getElementById("av-form");
   const input = document.getElementById("av-input");
+  const button = form.querySelector("button");
 
-  const history = []; // [{role:'user'|'assistant', content:'...'}]
+  input.placeholder = PLACEHOLDER;
+
+  const history = [];
+
+  const escapeHtml = (value = "") =>
+    value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  const format = (value = "") =>
+    escapeHtml(value).replace(/\n\n+/g, "<br><br>").replace(/\n/g, "<br>");
 
   function add(role, content) {
     const row = document.createElement("div");
     row.className = `av-row ${role}`;
-    row.innerHTML = `<div class="av-bubble">${content.replace(/</g,"&lt;")}</div>`;
+    row.innerHTML = `<div class="av-bubble">${format(content)}</div>`;
     msgsEl.appendChild(row);
     msgsEl.scrollTop = msgsEl.scrollHeight;
     return row;
   }
 
-  add("assistant", "Hi! I can answer questions about Aygun’s research, IoT sensors, privacy-aware smart spaces, and related AI work.");
+  if (!ENDPOINT) {
+    add(
+      "assistant",
+      "The AI assistant is offline right now. Deploy the Cloudflare Worker and set `site.chatbot.endpoint` in `_config.yml` to enable it."
+    );
+    input.disabled = true;
+    button.disabled = true;
+    form.setAttribute("aria-disabled", "true");
+    return;
+  }
 
-  form.addEventListener("submit", async (e) => {
-    e.preventDefault();
+  add(
+    "assistant",
+    "Hi! I can answer questions about Aygün's research, IoT sensors, privacy-aware smart spaces, and related AI work."
+  );
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
     const content = input.value.trim();
     if (!content) return;
+
     input.value = "";
     add("user", content);
     history.push({ role: "user", content });
 
     const thinking = add("assistant", "…");
-    form.querySelector("button").disabled = true;
+    button.disabled = true;
+    input.disabled = true;
 
     try {
-      const r = await fetch(ENDPOINT, {
+      const response = await fetch(ENDPOINT, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ messages: history }),
       });
-      const { reply, error } = await r.json();
-      if (error) throw new Error(error);
-      thinking.querySelector(".av-bubble").textContent = reply;
+
+      if (!response.ok) {
+        throw new Error(`Request failed: ${response.status}`);
+      }
+
+      const payload = await response.json();
+      if (payload.error) throw new Error(payload.error);
+
+      const reply = (payload.reply || "").trim();
+      if (!reply) throw new Error("Empty reply from the assistant.");
+
       history.push({ role: "assistant", content: reply });
-    } catch (err) {
-      thinking.querySelector(".av-bubble").textContent = "Error: " + err.message;
+      thinking.querySelector(".av-bubble").innerHTML = format(reply);
+    } catch (error) {
+      thinking.querySelector(".av-bubble").textContent = `Error: ${error.message}`;
     } finally {
-      form.querySelector("button").disabled = false;
+      button.disabled = false;
+      input.disabled = false;
       input.focus();
     }
   });
