@@ -30,6 +30,84 @@ My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf), My [DSc Poster](https:
 ------
 Version September 2025
 
+<div id="ai-agent"></div>
+<script>
+(() => {
+  const ENDPOINT = "https://<your-worker-subdomain>.workers.dev"; // no trailing slash if your worker routes root
+
+  const html = `
+  <style>
+    .av-chat{max-width:720px;margin:1rem 0;padding:1rem;border:1px solid #ddd;border-radius:12px;font:16px/1.4 system-ui,-apple-system,Segoe UI,Roboto}
+    .av-msgs{max-height:420px;overflow:auto;padding-bottom:0.5rem}
+    .av-row{display:flex;gap:.5rem;margin:.5rem 0}
+    .av-row.user{justify-content:flex-end}
+    .av-bubble{padding:.6rem .8rem;border-radius:12px;max-width:85%}
+    .av-row.user .av-bubble{background:#eef5ff}
+    .av-row.assistant .av-bubble{background:#f6f6f6}
+    .av-form{display:flex;gap:.5rem;margin-top:.5rem}
+    .av-input{flex:1;padding:.6rem .8rem;border:1px solid #ccc;border-radius:10px}
+    .av-btn{padding:.6rem .9rem;border:0;border-radius:10px;background:#111;color:#fff;cursor:pointer}
+    .av-btn:disabled{opacity:.6;cursor:not-allowed}
+  </style>
+  <div class="av-chat" role="region" aria-label="AI chat agent">
+    <div id="av-msgs" class="av-msgs" aria-live="polite"></div>
+    <form id="av-form" class="av-form">
+      <input id="av-input" class="av-input" type="text" placeholder="Ask about my research, sensors, AI agents…" autocomplete="off" />
+      <button class="av-btn" type="submit">Ask</button>
+    </form>
+  </div>`;
+
+  const root = document.getElementById("ai-agent");
+  root.innerHTML = html;
+
+  const msgsEl = document.getElementById("av-msgs");
+  const form = document.getElementById("av-form");
+  const input = document.getElementById("av-input");
+
+  const history = []; // [{role:'user'|'assistant', content:'...'}]
+
+  function add(role, content) {
+    const row = document.createElement("div");
+    row.className = `av-row ${role}`;
+    row.innerHTML = `<div class="av-bubble">${content.replace(/</g,"&lt;")}</div>`;
+    msgsEl.appendChild(row);
+    msgsEl.scrollTop = msgsEl.scrollHeight;
+    return row;
+  }
+
+  add("assistant", "Hi! I can answer questions about Aygun’s research, IoT sensors, privacy-aware smart spaces, and related AI work.");
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const content = input.value.trim();
+    if (!content) return;
+    input.value = "";
+    add("user", content);
+    history.push({ role: "user", content });
+
+    const thinking = add("assistant", "…");
+    form.querySelector("button").disabled = true;
+
+    try {
+      const r = await fetch(ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ messages: history }),
+      });
+      const { reply, error } = await r.json();
+      if (error) throw new Error(error);
+      thinking.querySelector(".av-bubble").textContent = reply;
+      history.push({ role: "assistant", content: reply });
+    } catch (err) {
+      thinking.querySelector(".av-bubble").textContent = "Error: " + err.message;
+    } finally {
+      form.querySelector("button").disabled = false;
+      input.focus();
+    }
+  });
+})();
+</script>
+
 Here is my latest AI podcasts
 ------
 For more please visit the Productivity page.
