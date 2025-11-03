@@ -85,7 +85,7 @@ publication_category:
     title: 'Conference Papers'
 
 chatbot:
-  endpoint: "aygunvarol.aygunvarol.workers.dev" # e.g., https://your-worker-subdomain.workers.dev/chat
+  endpoint: "https://aygunvarol-chatbot.aygunvarol.workers.dev/" # e.g., https://your-worker-subdomain.workers.dev/chat
   placeholder: "Ask about my research, IoT sensors, privacy, and AI agents."
 
 # Site Settings
