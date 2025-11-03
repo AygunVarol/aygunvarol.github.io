@@ -76,7 +76,7 @@ A: Aygün researches IoT sensor networks for smart indoor environments, AI appli
       };
 
       const body = {
-        model: env.GROQ_MODEL || "openai/gpt-oss-120b",
+        model: env.GROQ_MODEL || "llama-3.1-8b-instant",
         messages: [systemMessage, ...history],
         temperature: 0.2,
       };
@@ -127,6 +127,7 @@ A: Aygün researches IoT sensor networks for smart indoor environments, AI appli
     }
   },
 };
+
 
 
 
