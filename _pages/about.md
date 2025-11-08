@@ -19,11 +19,6 @@ Research Interests
 In my research, I aim to find an optimal integration of Internet of Things (IoT) sensor networks in indoor environments and develop smart systems that efficiently collect and process data in order to create comfortable, healthy, and sustainable living and working spaces. I am also interested in the applications of AI models such as transformer networks and Large Language Models (LLMs) to enhance smart space functionalities. Of course, with utilization of AI, I investigate potential risks of utilizing autonomous AI agents in smart spaces.<br><br>
 </div>
 
-<div style="text-align: center; margin-top: 1.5rem;">
-    <b><i>Cogito, ergo ago.</i></b><br>
-    <i>I think, therefore I act.</i>
-</div>
-
 AI Assistant
 ======
 <div id="ai-agent"></div>
