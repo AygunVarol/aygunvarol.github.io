@@ -42,6 +42,7 @@ redirect_from:
   border-radius: 8px;
   text-decoration: none;
   font-weight: 600;
+  font-color: #a964d6ff;
   transition: all 0.3s;
   display: inline-block;
 }
