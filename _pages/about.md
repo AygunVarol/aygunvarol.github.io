@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aygün Varol"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,38 +18,15 @@ redirect_from:
 }
 
 .hero-title {
-  font-size: 2rem;
+  font-size: 1.8rem;
   margin-bottom: 0.5rem;
   font-weight: 700;
 }
 
 .hero-subtitle {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   opacity: 0.95;
-  margin-bottom: 1rem;
-}
-
-.hero-stats {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  margin-top: 1.5rem;
-  flex-wrap: wrap;
-}
-
-.stat-item {
-  text-align: center;
-}
-
-.stat-number {
-  font-size: 1.8rem;
-  font-weight: 700;
-  display: block;
-}
-
-.stat-label {
-  font-size: 0.9rem;
-  opacity: 0.9;
+  line-height: 1.6;
 }
 
 .cta-buttons {
@@ -79,284 +56,85 @@ redirect_from:
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
-.btn-secondary {
-  background: rgba(255,255,255,0.2);
-  color: white;
-  border: 2px solid white;
-}
-
-.btn-secondary:hover {
-  background: rgba(255,255,255,0.3);
-}
-
-.section {
-  margin: 3rem 0;
-}
-
 .section-title {
   font-size: 1.8rem;
   font-weight: 700;
-  margin-bottom: 1.5rem;
+  margin: 2.5rem 0 1rem 0;
   padding-bottom: 0.5rem;
   border-bottom: 3px solid #667eea;
   display: inline-block;
 }
 
-.cards-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-
-.card {
+.research-interests-box {
   background: #f8f9fa;
   padding: 1.5rem;
   border-radius: 12px;
+  margin: 1.5rem 0;
   border-left: 4px solid #667eea;
+}
+
+.bio-box {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin: 1.5rem 0;
+  line-height: 1.8;
+}
+
+.podcast-section {
+  margin: 2rem 0;
+}
+
+.podcast-item {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 12px;
   transition: all 0.3s;
 }
 
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+.podcast-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-.card-title {
+.podcast-title {
   font-size: 1.2rem;
   font-weight: 700;
   margin-bottom: 0.75rem;
   color: #2c3e50;
 }
 
-.card-description {
-  color: #555;
-  line-height: 1.6;
-  margin-bottom: 1rem;
-}
-
-.card-link {
-  color: #667eea;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.card-link:hover {
-  text-decoration: underline;
-}
-
-.research-interests {
-  background: #f8f9fa;
-  padding: 2rem;
-  border-radius: 12px;
-  margin: 2rem 0;
-}
-
-.interests-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin-top: 1rem;
-}
-
-.interest-tag {
-  background: white;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  border: 2px solid #667eea;
-  color: #667eea;
-  font-weight: 600;
-  font-size: 0.9rem;
-}
-
-.news-item {
-  padding: 1rem;
-  border-left: 3px solid #667eea;
-  margin-bottom: 1rem;
-  background: #f8f9fa;
-  border-radius: 0 8px 8px 0;
-}
-
-.news-date {
-  color: #667eea;
-  font-weight: 600;
-  font-size: 0.9rem;
-}
-
-.featured-podcasts {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem;
-  margin-top: 1.5rem;
-}
-
-.contact-section {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 2rem;
-  border-radius: 12px;
-  text-align: center;
-  margin-top: 3rem;
-}
-
-.social-links {
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-  flex-wrap: wrap;
-}
-
-.social-link {
-  color: white;
-  text-decoration: none;
-  font-weight: 600;
-  padding: 0.5rem 1rem;
-  background: rgba(255,255,255,0.2);
-  border-radius: 8px;
-  transition: all 0.3s;
-}
-
-.social-link:hover {
-  background: rgba(255,255,255,0.3);
-  transform: translateY(-2px);
-}
-
 @media (max-width: 768px) {
   .hero-title {
     font-size: 1.5rem;
   }
-  .hero-stats {
-    gap: 1rem;
-  }
-  .cards-grid {
-    grid-template-columns: 1fr;
+  .cta-buttons {
+    flex-direction: column;
   }
 }
 </style>
 
 <div class="hero-section">
-  <h1 class="hero-title">Aygün Varol, M.Sc.</h1>
-  <p class="hero-subtitle">Doctoral Researcher | AI-Driven Smart Environments | IoT & Privacy</p>
-  <p>Department of Computing Sciences, Tampere University, Finland</p>
-  
-  <div class="hero-stats">
-    <div class="stat-item">
-      <span class="stat-number">3rd</span>
-      <span class="stat-label">Year PhD</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">IoT</span>
-      <span class="stat-label">Sensor Networks</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">AI</span>
-      <span class="stat-label">Smart Spaces</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-number">15+</span>
-      <span class="stat-label">AI Podcasts</span>
-    </div>
-  </div>
+  <h1 class="hero-title">Doctoral Researcher, Department of Computing Sciences, Tampere University, Finland</h1>
+  <p class="hero-subtitle">I develop AI-driven smart indoor environments that improve health and comfort while ensuring privacy and sustainability through IoT sensor networks.</p>
+  <p style="margin-top: 1rem; font-size: 1rem;">📧 E-mail: aygun.varol@tuni.fi</p>
   
   <div class="cta-buttons">
-    <a href="/files/Aygun_CV.pdf" class="btn btn-primary">📄 Download CV</a>
-    <a href="/files/Aygun_Poster.pdf" class="btn btn-secondary">🎯 Research Poster</a>
-    <a href="/publications/" class="btn btn-secondary">📚 Publications</a>
-    <a href="mailto:aygun.varol@tuni.fi" class="btn btn-secondary">✉️ Contact Me</a>
+    <a href="https://aygunvarol.github.io/files/Aygun_CV.pdf" class="btn btn-primary">📄 My CV</a>
+    <a href="https://aygunvarol.github.io/files/Aygun_Poster.pdf" class="btn btn-primary">🎯 My DSc Poster</a>
   </div>
 </div>
 
-## Research Focus
+<h2 class="section-title">Research Interests</h2>
 
-<div class="research-interests">
-  <p style="line-height: 1.8;">I develop <strong>AI-driven smart indoor environments</strong> that improve health and comfort while ensuring privacy and sustainability through IoT sensor networks. My work bridges the gap between cutting-edge AI technologies and practical applications in everyday living and working spaces.</p>
-  
-  <div class="interests-list">
-    <span class="interest-tag">🏠 Smart Spaces</span>
-    <span class="interest-tag">🌐 IoT Networks</span>
-    <span class="interest-tag">🤖 AI Agents</span>
-    <span class="interest-tag">🔒 Privacy-Aware Systems</span>
-    <span class="interest-tag">🌱 Sustainability</span>
-    <span class="interest-tag">🧠 Transformer Networks</span>
-    <span class="interest-tag">💬 Large Language Models</span>
-    <span class="interest-tag">⚠️ AI Risk Assessment</span>
+<div class="research-interests-box">
+  <div align="justify">
+In my research, I aim to find an optimal integration of Internet of Things (IoT) sensor networks in indoor environments and develop smart systems that efficiently collect and process data in order to create comfortable, healthy, and sustainable living and working spaces. I am also interested in the applications of AI models such as transformer networks and Large Language Models (LLMs) to enhance smart space functionalities. Of course, with utilization of AI, I investigate potential risks of utilizing autonomous AI agents in smart spaces.
   </div>
 </div>
 
-## Current Research Projects
-
-<div class="cards-grid">
-  <div class="card">
-    <div class="card-title">🔬 EVIL-AI Project</div>
-    <div class="card-description">
-      Investigating negative effects of AI and exploring mitigation strategies. Examining potential risks of autonomous AI agents in smart spaces and developing frameworks for responsible AI deployment.
-    </div>
-    <a href="#" class="card-link">Learn more →</a>
-  </div>
-  
-  <div class="card">
-    <div class="card-title">🏢 Smart Indoor Environments</div>
-    <div class="card-description">
-      Developing privacy-preserving IoT sensor networks that optimize indoor air quality, temperature, and lighting while minimizing energy consumption and protecting user privacy.
-    </div>
-    <a href="#" class="card-link">View project →</a>
-  </div>
-  
-  <div class="card">
-    <div class="card-title">🧠 AI-Enhanced IoT Systems</div>
-    <div class="card-description">
-      Applying transformer networks and LLMs to enhance smart space functionalities, enabling natural language interaction and intelligent automation in building management.
-    </div>
-    <a href="#" class="card-link">Explore research →</a>
-  </div>
-</div>
-
-## Recent Updates
-
-<div class="section">
-  <div class="news-item">
-    <span class="news-date">November 2024</span>
-    <p><strong>New AI Podcast Series:</strong> Launched series exploring cutting-edge AI topics including MCP, AI agents, and future of programming.</p>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">2024</span>
-    <p><strong>PhD Progress:</strong> Currently in 3rd year of doctoral studies at Tampere University, working on privacy-aware smart environments.</p>
-  </div>
-  
-  <div class="news-item">
-    <span class="news-date">Ongoing</span>
-    <p><strong>EVIL-AI Research:</strong> Active researcher investigating AI risks and mitigation strategies with Augmentative Technology Group.</p>
-  </div>
-</div>
-
-## Featured AI Podcasts
-
-Exploring the intersection of AI, technology, and society through conversations and analysis.
-
-<div class="featured-podcasts">
-  <div>
-    <h4>🔧 Code Execution with MCP</h4>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ucsWRNhysfPHltzHyGfyA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  </div>
-  
-  <div>
-    <h4>🧬 AI as a New Digital Species</h4>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4OEt03x2Zh5ChcB2zjvOin?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  </div>
-  
-  <div>
-    <h4>🔮 Future of Programming and AI</h4>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6y1aMwLs9RU9LF9j9zZVHg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  </div>
-</div>
-
-<div style="text-align: center; margin-top: 1.5rem;">
-  <a href="/podcasts/" class="btn btn-primary">🎙️ View All Podcasts</a>
-</div>
-
-## Ask My AI Assistant
+<h2 class="section-title">AI Assistant</h2>
 
 <div id="ai-agent"></div>
 <script>
@@ -433,7 +211,7 @@ Exploring the intersection of AI, technology, and society through conversations 
 
   add(
     "assistant",
-    "Hi! I can answer questions about Aygün's research, IoT sensors, privacy-aware smart spaces, and related AI work. What would you like to know?"
+    "Hi! I can answer questions about Aygün's research, IoT sensors, privacy-aware smart spaces, and related AI work."
   );
 
   form.addEventListener("submit", async (event) => {
@@ -480,40 +258,88 @@ Exploring the intersection of AI, technology, and society through conversations 
 })();
 </script>
 
-## Academic Background
+<h2 class="section-title">Bio</h2>
 
-<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 12px; line-height: 1.8;">
-
-**Current Position:** Doctoral Researcher (3rd year), Department of Computing Sciences, Tampere University
-
-**Supervision Team:**
-- **Main Supervisor:** Associate Professor Johanna Virkki (Tampere University)
-- **Co-Supervisor:** Dr. Naser Hossein Motlagh (University of Helsinki)
-- **Co-Supervisor:** Dr. Mirka Leino (Satakunta University of Applied Sciences)
-
-**Affiliation:** Augmentative Technology Group, Tampere University
-
-**Education:**
-- **D.Sc. (ongoing)** - Computing Sciences, Tampere University, Finland
-- **M.Sc.** - Electrical and Electronics Engineering, Isparta University of Applied Sciences, Turkey
-  - Focus: Analog Circuit Design
-  - Supervisors: Prof. Abdülkadir Çakır, Assoc. Prof. Fırat Yücel
-- **B.Sc.** - Electrical and Electronics Engineering, Manisa Celal Bayar University, Turkey
-  - Focus: Industrial Automation
-  - Supervisor: Prof. Sezai Taşkın
-
+<div class="bio-box">
+  <div align="justify">
+I am in my third year in my D.Sc. at Tampere University. I have three supervisors for my doctoral research: Associate Professor Johanna Virkki (my main supervisor at Tampere University), Dr. Naser Hossein Motlagh (a co-supervisor at the University of Helsinki), and Dr. Mirka Leino (a co-supervisor at Satakunta University of Applied Sciences). I am affiliated with the Augmentative Technology Group and take part as a researcher in the EVIL-AI project, which investigates the negative effects of AI and explores strategies for mitigation.<br><br>
+  
+Prior to my position at Tampere University, I was research assistant at Isparta University of Applied Sciences where I also earned my M.Sc. in Electrical and Electronics Engineering. During my master's studies, I focused on analog circuit design under the supervision of Prof. Abdülkadir Çakır (my main supervisor) and Assoc. Prof. Fırat Yücel (my co-supervisor at Akdeniz University). I earned my B.Sc. in Electrical and Electronics Engineering from Manisa Celal Bayar University. My research was on industrial automation under the guidance of Prof. Sezai Taşkın.
+  </div>
 </div>
 
-<div class="contact-section">
-  <h2 style="margin-top: 0;">Let's Connect</h2>
-  <p>Interested in collaboration, discussing research, or learning more about my work?</p>
-  
-  <div class="social-links">
-    <a href="mailto:aygun.varol@tuni.fi" class="social-link">📧 Email</a>
-    <a href="/files/Aygun_CV.pdf" class="social-link">📄 CV</a>
-    <a href="#" class="social-link">🎓 Google Scholar</a>
-    <a href="#" class="social-link">🔬 ResearchGate</a>
-    <a href="#" class="social-link">💼 LinkedIn</a>
-    <a href="#" class="social-link">🐙 GitHub</a>
+<h2 class="section-title">My Latest AI Podcasts</h2>
+
+<p style="margin-bottom: 1.5rem;">For more please visit the Productivity page.</p>
+
+<div class="podcast-section">
+  <div class="podcast-item">
+    <div class="podcast-title">Code Execution with MCP</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ucsWRNhysfPHltzHyGfyA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">AI as a New Digital Species</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4OEt03x2Zh5ChcB2zjvOin?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Why AI is a Ghost?</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/15DNYC5Rmw7GoeMCNejLmF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">DNA of AI</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5toyY9VxQJJXuJCJcsNBkl?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">SuperMemory MCP</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6GUsglf3PhPcIQfTA2DfIH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">AI Application Spending</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/01eYM2ibFQnfYzKu4QfQFc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Efficient Context Engineering for AI Agents</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0PPdA8fxVXDc8F1dvx2qTY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Building AI Life Co-Pilot</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/04tSqbPEUdN1Jipiwm5NOG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Future of Programming and AI</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6y1aMwLs9RU9LF9j9zZVHg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Responsible and Secure AI Agents</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0kh4oSfBgofrAxNUlQ4qFK?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Managing People and AI</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6AUUTCtt8rxlCuVORTE0bc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">Nano Banana</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6vAEqvbDVP3BORscZ77pVa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">GPT Realtime</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0dboYv34OyEKXoEI1Sp7QM?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </div>
+
+  <div class="podcast-item">
+    <div class="podcast-title">RAG is Dead</div>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3YqDoiqVPhRIKJsMkl8VxB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
 </div>
