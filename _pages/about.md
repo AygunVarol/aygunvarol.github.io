@@ -157,13 +157,10 @@ Prior to my position at Tampere University, I was research assistant at Isparta 
 _For more, please visit the Productivity page._
 
 ### Code Execution with MCP
-------
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ucsWRNhysfPHltzHyGfyA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-AI as a New Digital Species
-------
+### AI as a New Digital Species
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4OEt03x2Zh5ChcB2zjvOin?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Why AI is a Ghost?
-------
+### Why AI is a Ghost?
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/15DNYC5Rmw7GoeMCNejLmF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
