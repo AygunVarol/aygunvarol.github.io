@@ -10,16 +10,11 @@ redirect_from:
 Doctoral Researcher, Department of Computing Sciences, Tampere University, Finland
 
 I develop AI-driven smart indoor environments that improve health and comfort while ensuring privacy and sustainability through IoT sensor networks.
----
 
-### Contact
+📧 E-mail: [aygun.varol@tuni.fi](aygun.varol@tuni.fi) 
+📄 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf) 
+🎯 My [DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf)
 
-- 📧 **E-mail:** [aygun.varol@tuni.fi](mailto:aygun.varol@tuni.fi)
-
-### Documents
-
-- 📄 **CV:** [Download my CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
-- 🎯 **DSc Poster:** [View my DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf)
 
 Research Interests
 ======
