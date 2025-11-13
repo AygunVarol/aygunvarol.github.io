@@ -21,9 +21,9 @@ In my research, I aim to find an optimal integration of Internet of Things (IoT)
 
 ## AI Assistant
 > Try asking:
-> - “How do you use IoT sensors in your research?”
-> - “What is the EVIL-AI project about?”
-> - “How do you address privacy in smart homes?”
+> - How do you use IoT sensors in your research?
+> - What is the EVIL-AI project about?
+> - How do you address privacy in smart homes?
 <div id="ai-agent"></div>
 <script>
 (() => {
