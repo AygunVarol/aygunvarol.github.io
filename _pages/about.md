@@ -11,7 +11,11 @@ Doctoral Researcher, Department of Computing Sciences, Tampere University, Finla
 
 I develop AI-driven smart indoor environments that improve health and comfort while ensuring privacy and sustainability through IoT sensor networks.
 
-E-mail: aygun.varol@tuni.fi
+📧 E-mail: [aygun.varol@tuni.fi](aygun.varol@tuni.fi)
+
+📄 My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf)
+
+🎯 My [DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf)
 
 Research Interests
 ======
@@ -148,9 +152,6 @@ Bio
 I am in my third year in my D.Sc. at Tampere University. I have three supervisors for my doctoral research: Associate Professor Johanna Virkki (my main supervisor at Tampere University), Dr. Naser Hossein Motlagh (a co-supervisor at the University of Helsinki), and Dr. Mirka Leino (a co-supervisor at Satakunta University of Applied Sciences). I am affiliated with the Augmentative Technology Group and take part as a researcher in the EVIL-AI project, which investigates the negative effects of AI and explores strategies for mitigation.<br><br>
   
 Prior to my position at Tampere University, I was research assistant at Isparta University of Applied Sciences where I also earned my M.Sc. in Electrical and Electronics Engineering. During my master’s studies, I focused on analog circuit design under the supervision of Prof. Abdülkadir Çakır (my main supervisor) and Assoc. Prof. Fırat Yücel (my co-supervisor at Akdeniz University). I earned my B.Sc. in Electrical and Electronics Engineering from Manisa Celal Bayar University. My research was on industrial automation under the guidance of Prof. Sezai Taşkın.</div>
-
-My [CV](https://aygunvarol.github.io/files/Aygun_CV.pdf), My [DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf)
-------
 
 My Latest AI Podcasts
 ======
