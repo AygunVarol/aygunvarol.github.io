@@ -14,6 +14,14 @@ I develop AI-driven smart indoor environments that improve health and comfort wh
 
 📧 [aygun.varol@tuni.fi](mailto:aygun.varol@tuni.fi) [📄 CV](https://aygunvarol.github.io/files/Aygun_CV.pdf){: .btn .btn--primary } [🎯 DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf){: .btn .btn--outline }
 
+### Contact & documents
+
+<div class="contact-row">
+  📧 <a href="mailto:aygun.varol@tuni.fi">aygun.varol@tuni.fi</a>
+  [📄 CV](https://aygunvarol.github.io/files/Aygun_CV.pdf){: .btn .btn--primary }
+  [🎯 DSc Poster](https://aygunvarol.github.io/files/Aygun_Poster.pdf){: .btn .btn--outline }
+</div>
+
 ## Research Interests
 
 <div align="justify">
