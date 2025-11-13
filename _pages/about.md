@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+description: "Doctoral Researcher at Tampere University working on AI-driven smart indoor environments, IoT sensor networks, and privacy-aware AI agents."
 ---
 
 Doctoral Researcher, Department of Computing Sciences, Tampere University, Finland
@@ -20,7 +21,10 @@ In my research, I aim to find an optimal integration of Internet of Things (IoT)
 </div>
 
 ## AI Assistant
-
+> Try asking:
+> - “How do you use IoT sensors in your research?”
+> - “What is the EVIL-AI project about?”
+> - “How do you address privacy in smart homes?”
 <div id="ai-agent"></div>
 <script>
 (() => {
