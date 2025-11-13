@@ -16,13 +16,11 @@ I develop AI-driven smart indoor environments that improve health and comfort wh
 
 
 ## Research Interests
-======
 <div align="justify">
 In my research, I aim to find an optimal integration of Internet of Things (IoT) sensor networks in indoor environments and develop smart systems that efficiently collect and process data in order to create comfortable, healthy, and sustainable living and working spaces. I am also interested in the applications of AI models such as transformer networks and Large Language Models (LLMs) to enhance smart space functionalities. Of course, with utilization of AI, I investigate potential risks of utilizing autonomous AI agents in smart spaces.<br><br>
 </div>
 
 ## AI Assistant
-======
 <div id="ai-agent"></div>
 <script>
 (() => {
