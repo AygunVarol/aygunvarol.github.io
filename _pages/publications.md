@@ -14,7 +14,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Journal:**   
 **Year:** 2026  
 **Summary:** This survey introduces foundational components required to build AI-driven smart environments, emphasizing the integration of emerging AI methodologies to enhance functionalities such as personalized comfort settings and interactive living spaces. It provides a comprehensive overview of sensor technologies, data communication protocols, and the role of AI in creating intelligent, adaptive indoor environments.  
-**Link:** [View Publication]([https://arxiv.org/pdf/2412.14708?](https://www.sciencedirect.com/science/article/pii/S2542660526000065?casa_token=kMAPXVhVSqsAAAAA:PU3c6za_7JcQ6myxjKxRaA8jsOP4JmE_05-FsTqdfTsETe-uhsM5NncmfAEAKHWRyEsH9EaB5UA))
+**Link:** [View Publication]([[https://arxiv.org/pdf/2412.14708?](https://www.sciencedirect.com/science/article/pii/S2542660526000065?casa_token=kMAPXVhVSqsAAAAA:PU3c6za_7JcQ6myxjKxRaA8jsOP4JmE_05-FsTqdfTsETe-uhsM5NncmfAEAKHWRyEsH9EaB5UA)])
 
 ## 2. Performance of Large Language Models Across Edge and Cloud Platforms in Smart Spaces
 
