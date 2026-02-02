@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+2026 February - Augmentative and Assistive Smart Technologies
+------
+[Slides](https://aygunvarol.github.io/files/guest-lecture-ai-smart-environments.pdf)
+
 2025 September - Generative AI Risks and Where to Find Them at Tampere University
 ------
 [Slides](https://aygunvarol.github.io/files/Generative_AI_Risks.pdf)
