@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ## 1. Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey
 
 **Authors:** A. Varol, N.H. Motlagh, M. Leino, S. Tarkoma, J. Virkki  
-**Conference:** Internet of Things  
+**Journal:** Internet of Things  
 **Year:** 2026  
 **Summary:** This survey introduces foundational components required to build AI-driven smart environments, emphasizing the integration of emerging AI methodologies to enhance functionalities such as personalized comfort settings and interactive living spaces. It provides a comprehensive overview of sensor technologies, data communication protocols, and the role of AI in creating intelligent, adaptive indoor environments.  
 **Link:** [View Publication](https://www.sciencedirect.com/science/article/pii/S2542660526000065?casa_token=kMAPXVhVSqsAAAAA:PU3c6za_7JcQ6myxjKxRaA8jsOP4JmE_05-FsTqdfTsETe-uhsM5NncmfAEAKHWRyEsH9EaB5UA)
