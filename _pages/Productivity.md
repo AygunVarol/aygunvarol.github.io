@@ -5,6 +5,10 @@ permalink: /contents/
 author_profile: true
 ---
 
+AI Is Becoming Part of the Infrastructure
+------
+<div class="substack-post-embed"><p lang="en">AI Is Becoming Part of the Infrastructure by Aygün Varol</p><p>AI Is Moving from Intelligence Feature to System Infrastructure</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-is-becoming-part-of-the-infrastructure">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
 GPT 5.1 Codex Max
 ------
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7DSAHLnoUEjilI0lh7n3kJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
