@@ -152,9 +152,12 @@ I am in my third year of D.Sc. studies at Tampere University. I have three super
   
 Prior to my position at Tampere University, I was research assistant at Isparta University of Applied Sciences where I also earned my M.Sc. in Electrical and Electronics Engineering. During my master’s studies, I focused on analog circuit design under the supervision of Prof. Abdülkadir Çakır (my main supervisor) and Assoc. Prof. Fırat Yücel (my co-supervisor at Akdeniz University). I earned my B.Sc. in Electrical and Electronics Engineering from Manisa Celal Bayar University. My research was on industrial automation under the guidance of Prof. Sezai Taşkın.</div>
 
-## My Latest AI Podcasts
+## My Latest AI Podcasts and Articles
 
 _For more, please visit the Productivity page._
+
+### AI Is Becoming Part of the Infrastructure
+<div class="substack-post-embed"><p lang="en">AI Is Becoming Part of the Infrastructure by Aygün Varol</p><p>AI Is Moving from Intelligence Feature to System Infrastructure</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-is-becoming-part-of-the-infrastructure">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
 
 ### GPT 5.1 Codex Max
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7DSAHLnoUEjilI0lh7n3kJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
