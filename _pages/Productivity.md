@@ -5,6 +5,10 @@ permalink: /contents/
 author_profile: true
 ---
 
+AI is moving closer to sensitive parts of life
+------
+<div class="substack-post-embed"><p lang="en">AI is moving closer to sensitive parts of life by Aygün Varol</p><p>What data does it touch, what actions can it take, and who controls the boundary?</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-is-moving-closer-to-sensitive">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
 AI Is Becoming Part of the Infrastructure
 ------
 <div class="substack-post-embed"><p lang="en">AI Is Becoming Part of the Infrastructure by Aygün Varol</p><p>AI Is Moving from Intelligence Feature to System Infrastructure</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-is-becoming-part-of-the-infrastructure">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
