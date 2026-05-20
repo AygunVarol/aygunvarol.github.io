@@ -116,18 +116,18 @@ AI/IoT Research Engineer with 5+ years of experience in developing smart indoor 
 
 ### Teaching Assistant
 
-* **DPHAT 100 | Gameful Realities Doctoral Seminar**, Tampere University, 2025–2026
-* **EEM-203 | Electronics I**, Isparta University of Applied Sciences, 2020–2024
-* **EEM-209 | Digital Systems**, Isparta University of Applied Sciences, 2020–2024
-* **EEM-204 | Electronics II**, Isparta University of Applied Sciences, 2019–2023
-* **EEM-252 | Digital System Design**, Isparta University of Applied Sciences, 2019–2023
-* **EEM-301 | Microprocessor System Design**, Isparta University of Applied Sciences, 2021–2023
-* **EEM-114 | Fundamentals of Electrical and Electronics**, Isparta University of Applied Sciences, 2019–2022
-* **EEM-202 | Circuit Analysis II**, Isparta University of Applied Sciences, 2020–2021
+* **DPHAT 100 – Gameful Realities Doctoral Seminar**, Tampere University, 2025–2026
+* **EEM-203 – Electronics I**, Isparta University of Applied Sciences, 2020–2024
+* **EEM-209 – Digital Systems**, Isparta University of Applied Sciences, 2020–2024
+* **EEM-204 – Electronics II**, Isparta University of Applied Sciences, 2019–2023
+* **EEM-252 – Digital System Design**, Isparta University of Applied Sciences, 2019–2023
+* **EEM-301 – Microprocessor System Design**, Isparta University of Applied Sciences, 2021–2023
+* **EEM-114 – Fundamentals of Electrical and Electronics**, Isparta University of Applied Sciences, 2019–2022
+* **EEM-202 – Circuit Analysis II**, Isparta University of Applied Sciences, 2020–2021
 
 ### Guest Lecturer
 
-* **HTI.470 | Human-Centred and Societal Perspectives to Artificial Intelligence**, Tampere University, Tampere (Remote), 2 February 2026
+* **HTI.470 – Human-Centred and Societal Perspectives to Artificial Intelligence**, Tampere University, Tampere (Remote), 2 February 2026
 
 ---
 
