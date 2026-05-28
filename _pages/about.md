@@ -174,6 +174,18 @@ _For more, please visit the Productivity page._
 ### Catastrophic Misalignment
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3CQU7WmQDTNsdh4orpWaMd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### AI Agents for Scientific Discovery
+<div class="substack-post-embed"><p lang="tr">AI Agents for Scientific Discovery by Aygün Varol</p><p>The new AI race is about systems that act</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-agents-for-scientific-discovery">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+### The new AI story: agents are leaving the chat window
+<div class="substack-post-embed"><p lang="en">The new AI story: agents are leaving the chat window by Aygün Varol</p><p>AI systems are turning into workers, operators, researchers, phone agents, memory systems, weather forecasters, and scientific collaborators.</p><a data-post-link href="https://aygunvarol.substack.com/p/the-new-ai-story-agents-are-leaving">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+### AI has not removed the need for engineering judgment. It has moved engineering judgment one level higher.
+<div class="substack-post-embed"><p lang="en">AI has not removed the need for engineering judgment. It has moved engineering judgment one level higher. by Aygün Varol</p><p>Imagine a young engineer named Deniz.</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-has-not-removed-the-need-for-engineering">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+### AI is learning to work longer, but we still do not know how much we can trust it
+<div class="substack-post-embed"><p lang="tr">AI is learning to work longer, but we still do not know how much we can trust it by Aygün Varol</p><p>AI is being delegated real work. Now everyone is discovering that delegation is harder than conversation.</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-is-learning-to-work-longer-but">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
 ### Claude Agent Skills
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3DHN8MfijogOpS2bYHvQ7X?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
