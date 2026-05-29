@@ -5,6 +5,14 @@ permalink: /contents/
 author_profile: true
 ---
 
+Agentic Computing
+------
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0iK8H3of7bNsYng2itsM6l?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Digital Trust
+------
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/2TCcEEAL2I5zc7uK4rYQat?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 AI Agents for Scientific Discovery
 ------
 <div class="substack-post-embed"><p lang="tr">AI Agents for Scientific Discovery by Aygün Varol</p><p>The new AI race is about systems that act</p><a data-post-link href="https://aygunvarol.substack.com/p/ai-agents-for-scientific-discovery">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
