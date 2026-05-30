@@ -5,6 +5,14 @@ permalink: /contents/
 author_profile: true
 ---
 
+Automated Data Insights
+------
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/32EAwp2YDOjwsC9Jixv52H?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+AI Delegation
+------
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5vAC96jdld1YIc0WchzRV4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Agentic Computing
 ------
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0iK8H3of7bNsYng2itsM6l?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
