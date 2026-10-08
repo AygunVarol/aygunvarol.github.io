@@ -49,7 +49,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 **Conference:** 2026 11th International Conference on Smart and Sustainable Technologies (SpliTech)  
 **Year:** 2026  
 **Summary:** This paper examines a structured prompt-based approach to evaluating exploitative misuse risks in generative AI. It focuses on using systematically constructed prompts to investigate potentially harmful uses of generative models and inform AI safety assessment.  
-**Link:** [Conference Programme (paper listing)](https://splitech.org/Final%20Programme.pdf#page=34)  
+**Link:** [Conference Programme (paper listing)](https://doi.org/10.23919/SpliTech70133.2026.11685581)
 <!-- Official publication DOI or IEEE Xplore record not independently verified as of 2026-10-08. -->
 
 ## 6. User-Centred Concept Creation of Cloth-Based Activators to Support Social Inclusion
