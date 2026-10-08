@@ -31,7 +31,6 @@ AI/IoT Research Engineer with 5+ years of experience in developing smart indoor 
 
 * **D.Sc. (ongoing)**, Computing and Electrical Engineering, GPA: 4.71/5.0, Tampere University, Tampere, Finland, 2023–Present
 * **M.Sc. (2022)**, Electrical and Electronics Engineering, GPA: 3.8/4.0, Isparta University of Applied Sciences, Isparta, Türkiye, 2020–2022
-  * **Thesis:** OTA tabanlı birinci dereceden filtre tasarımları ve osilatör uygulaması
 * **B.Sc. (2017)**, Electrical and Electronics Engineering, GPA: 3.35/4.0, Manisa Celal Bayar University, Manisa, Türkiye, 2013–2017
 
 ---
