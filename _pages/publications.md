@@ -28,33 +28,38 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## 3. Evil-AI Benchmark: An Evaluation Framework for Adversarial Security Assessment of LLM Agents in Smart Environments
 
-**Authors:** A. Varol, A. Shaikh, H. Jalo, G. Muchenje, J.S. De Cerqueira, K.K. Kemell, et al.  
-**Journal:** IEEE Access  
+**Authors:** A. Varol, A. Shaikh, H. Jalo, G. Muchenje, J.S. de Cerqueira, K.-K. Kemell, N.H. Motlagh, M. Leino, H. Pirkkalainen, P. Abrahamsson, J. Virkki  
+**Journal:** IEEE Access, Vol. 14  
+**Pages:** 133098-133116  
 **Year:** 2026  
-**Summary:** This paper introduces the Evil-AI Benchmark, an evaluation framework for assessing adversarial threat vectors against LLM agents deployed in smart environments.  
-<!-- TODO: complete the author list, expand the summary, and add the link -->
+**Summary:** This paper introduces Evil-AI Benchmark, an open-source framework for assessing adversarial threats to LLM agents in smart environments. It evaluates five threat vectors—prompt injection, persuasion, attacker-in-the-middle simulation, data leakage, and unsafe actions—alongside device-control capability and over-refusal, including physical verification of actuator commands. Eight LLMs are tested using 350 scenarios, including 250 adversarial tests. Observed attack success rates range from 0.8% to 54.0%, with persuasion and prompt injection presenting persistent weaknesses. The benchmark provides reproducible safety metrics for cyber-physical LLM applications.  
+**Link:** [View Publication](https://doi.org/10.1109/ACCESS.2026.3727159)
 
 ## 4. Measuring the Atmosphere: Environmental Sensing for Occupant Flows in Commercial Spaces
 
-**Authors:** N.H. Motlagh, A. Varol, M.A. Zaidan, P.L. Fung, S. Varjonen, P. Nurmi, et al.  
+**Authors:** N.H. Motlagh, A. Varol, M.A. Zaidan, P.L. Fung, S. Varjonen, P. Nurmi, S. Tarkoma  
 **Journal:** IEEE Internet of Things Journal  
 **Year:** 2026  
-**Summary:** This paper uses low-cost environmental sensor nodes deployed in a shopping mall to infer occupant flows from ambient environmental dynamics.  
-<!-- TODO: complete the author list, check the summary, and add the link -->
+**Summary:** This paper investigates privacy-preserving visitor-flow estimation using environmental sensors deployed across a commercial building. Fourteen multivariable sensor nodes collect data in a shopping mall for up to 79 days, with ground-truth visitor counts available at one location. A compact multimodal attention-based model fuses environmental signals to classify low, medium, and high occupancy, achieving 76.5% balanced accuracy under a temporally blocked data split. The model outperforms seven baselines while using only 5,813 parameters (approximately 23 kB), demonstrating the potential for resource-constrained edge inference.  
+**Link:** [View Publication](https://doi.org/10.1109/JIOT.2026.3738935)
 
 ## 5. A Structured Prompt-Based Approach to Evaluating Exploitative Misuse in Generative AI
 
 **Authors:** I. Savolainen, J. Vestelin, T. Ihalainen, A. Varol, J. Virkki  
 **Conference:** 2026 11th International Conference on Smart and Sustainable Technologies (SpliTech)  
 **Year:** 2026  
-<!-- TODO: add a summary and the link -->
+**Summary:** This paper examines a structured prompt-based approach to evaluating exploitative misuse risks in generative AI. It focuses on using systematically constructed prompts to investigate potentially harmful uses of generative models and inform AI safety assessment.  
+**Link:** [Conference Programme (paper listing)](https://splitech.org/Final%20Programme.pdf#page=34)  
+<!-- Official publication DOI or IEEE Xplore record not independently verified as of 2026-10-08. -->
 
 ## 6. User-Centred Concept Creation of Cloth-Based Activators to Support Social Inclusion
 
-**Authors:** T. Vuohijoki, J. Huhtasalo, M. Raukola-Lindblom, R. Deloso, M. Sakif, O. Kivin, et al.  
+**Authors:** T. Vuohijoki, J. Huhtasalo, M. Raukola-Lindblom, R. Deloso, M.M. Sakif, O. Kivin, T. Rautio, A. Tavakoli, C. Gonzalez Visiedo, H. Mattila, S.M. Rahman, P. Sipola, T. Ihalainen, A. Varol, J. Virkki, S. Merilampi  
 **Conference:** 2026 11th International Conference on Smart and Sustainable Technologies (SpliTech)  
 **Year:** 2026  
-<!-- TODO: complete the author list, add a summary and the link -->
+**Summary:** This paper addresses user-centred concept development for cloth-based interactive activators intended to support social inclusion. It explores the potential of textile-based interaction concepts to encourage participation and help make everyday environments and activities more accessible.  
+**Link:** [Conference Programme (paper listing)](https://splitech.org/Final%20Programme.pdf#page=34)  
+<!-- Official publication DOI or IEEE Xplore record not independently verified as of 2026-10-08. -->
 
 ## 7. Creation of AI-driven Smart Spaces for Enhanced Indoor Environments – A Survey
 
